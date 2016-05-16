@@ -39,3 +39,6 @@ $ git push heroku master
 $ heroku run knex migrate:latest
 $ heroku run knex seed:run
 $ heroku open
+
+## For static files
+https://github.com/heroku/heroku-buildpack-static
